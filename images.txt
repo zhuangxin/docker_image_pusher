@@ -4,6 +4,14 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-
+mariadb
 keyfactor/ejbca-ce
 snowdreamtech/frps
+osixia/openldap
+openbmp/whois
+openbmp/collector
+grafana/grafana
+openbmp/postgres
+confluentinc/cp-zookeeper
+openbmp/psql-app
+confluentinc/cp-kafka
