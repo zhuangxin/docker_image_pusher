@@ -8,7 +8,7 @@ mariadb
 keyfactor/ejbca-ce
 snowdreamtech/frps
 osixia/openldap
-openbmp/whois:2.2.0
+openbmp/whois:v2.2.0
 openbmp/collector:2.2.3
 grafana/grafana:9.1.7
 openbmp/postgres:2.2.1
