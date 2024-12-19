@@ -2,10 +2,10 @@ mariadb
 keyfactor/ejbca-ce
 snowdreamtech/frps
 osixia/openldap
-openbmp/whois:2.2.0
-openbmp/collector:2.2.3
-grafana/grafana:9.1.7
-openbmp/postgres:2.2.1
-confluentinc/cp-zookeeper:7.1.1
-openbmp/psql-app:2.2.2
-confluentinc/cp-kafka:7.1.1
+openbmp/whois
+openbmp/collector
+grafana/grafana
+openbmp/postgres
+confluentinc/cp-zookeeper
+openbmp/psql-app
+confluentinc/cp-kafka
