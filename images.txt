@@ -10,3 +10,4 @@ confluentinc/cp-zookeeper:7.1.1
 openbmp/psql-app:2.2.2
 confluentinc/cp-kafka:7.1.1
 batfish/allinone
+klaemo/couchdb
