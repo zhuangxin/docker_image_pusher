@@ -10,3 +10,6 @@ confluentinc/cp-zookeeper:7.1.1
 openbmp/psql-app:2.2.2
 confluentinc/cp-kafka:7.1.1
 batfish/allinone
+netboxcommunity/netbox
+postgres:17-alpine
+valkey/valkey:8.1-alpine
