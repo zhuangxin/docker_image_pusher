@@ -13,3 +13,4 @@ batfish/allinone
 netboxcommunity/netbox
 postgres:17-alpine
 valkey/valkey:8.1-alpine
+python
